@@ -2,4 +2,4 @@
 
 ### Hello world!
 
-### Modify for pull command!!
+### Modify for fetch and merge command!!
